@@ -96,8 +96,12 @@ p {
   border-radius: 0.625rem 0 0 0.625rem;
 }
 
+.product-image-desktop,
 .product-image-mobile {
-  overflow: hidden;
+  object-fit: cover;
+}
+
+.product-image-mobile {
   display: none;
 }
 
