@@ -38,8 +38,8 @@ Mobile Version
 
 ### Links
 
-- Solution URL: [https://github.com/halderjoydeep/FM-Preview-card](https://github.com/halderjoydeep/FM-Preview-card)
-- Live Site URL: [https://halderjoydeep.github.io/FM-Preview-card/](https://halderjoydeep.github.io/FM-Preview-card/)
+- Solution URL: [https://github.com/halderjoydeep/FM-Product-preview-card](https://github.com/halderjoydeep/FM-Product-preview-card)
+- Live Site URL: [https://halderjoydeep.github.io/FM-Product-preview-card/](https://halderjoydeep.github.io/FM-Product-preview-card/)
 
 ## My process
 
