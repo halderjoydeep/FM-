@@ -96,15 +96,9 @@ p {
   border-radius: 0.625rem 0 0 0.625rem;
 }
 
-.product-image-desktop,
-.product-image-mobile {
+.product-image-desktop {
   object-fit: cover;
 }
-
-.product-image-mobile {
-  display: none;
-}
-
 /***** Content Section *******/
 .content {
   padding: 1.875rem;
@@ -167,14 +161,6 @@ button:hover {
 @media (max-width: 550px) {
   .card-grid {
     grid-template-columns: 1fr;
-  }
-
-  .product-image-desktop {
-    display: none;
-  }
-
-  .product-image-mobile {
-    display: block;
   }
 
   .product-image {

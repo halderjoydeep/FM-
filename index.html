@@ -15,18 +15,17 @@
   </head>
   <body>
     <main class="container card-grid">
-      <figure class="product-image">
+      <picture class="product-image">
+        <source
+          media="(max-width:550px)"
+          srcset="images/image-product-mobile.jpg"
+        />
         <img
           class="product-image-desktop"
           src="images/image-product-desktop.jpg"
           alt="product-image"
         />
-        <img
-          class="product-image-mobile"
-          src="images/image-product-mobile.jpg"
-          alt="product-image"
-        />
-      </figure>
+      </picture>
       <section class="content">
         <p class="product-category">PERFUME</p>
         <h1 class="product-title">Gabrielle Essence Eau De Parfum</h1>
