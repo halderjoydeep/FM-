@@ -33,6 +33,11 @@ button {
   --white: hsl(0, 0%, 100%);
 }
 
+::selection {
+  color: white;
+  background-color: var(--dark-cyan);
+}
+
 /****** Typography *****/
 body {
   font-family: "Montserrat", sans-serif;
